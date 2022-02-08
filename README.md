@@ -1,5 +1,5 @@
 # HeatmapLymphoma
 
-For the interactive html version clone the repo and open the index.html file with a recent browser.
+For the interactive html version go to [Heatmap :link:](https://dr-tsteimle.github.io/HeatmapLymphoma/).
 
 ![heatmap](/hm.png)
